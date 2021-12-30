@@ -1,0 +1,65 @@
+#iconG{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+article{
+    width: 900px;
+    margin: 0em auto;
+    text-align: center;
+}
+
+p{
+    margin: 0px;
+}
+
+
+.mainBox{
+    width: 900px;
+    padding-top: 2px;
+    margin: auto;
+}
+
+.Box{
+    float: left;
+    height: 80px;
+}
+
+.Box.bgB1{
+    width: 40%;
+}
+
+.Box.bgB2{
+    width: 20%;
+    font-size: 13px;
+}
+
+.Box.bgB3{
+    width: 40%;
+    font-size: 13px;
+}
+
+#searchG{
+    background-color: #EEEEEE;
+}
+
+.bgB1{
+    background-color: #7cd3ca;
+}
+
+.bgB2{
+    background-color: #4f968d;
+}
+
+.bgB3{
+    background-color: #346660;
+}
+
+footer{
+    width: 900px;
+    margin: 8em auto;
+    text-align: center;
+    font-size: 13px;
+}
